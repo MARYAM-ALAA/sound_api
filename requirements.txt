@@ -1,8 +1,7 @@
-numpy
-pandas
-librosa
-scikit-learn
-tensorflow
 fastapi
 uvicorn
-
+numpy
+python-multipart
+tflite-runtime
+python_speech_features
+soundfile
