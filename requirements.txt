@@ -1,5 +1,5 @@
 fastapi
-uvicorn
+uvicorn[standard]
 numpy
 python-multipart
 tflite-runtime
